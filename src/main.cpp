@@ -67,9 +67,6 @@ int main() {
     nameEntryText.setCharacterSize(40);
     nameEntryText.setFillColor(sf::Color::Yellow);
     
-    // bool gameOver = false;
-    // resetGame(player, asteroids, bullets, score, level, lives);
-
     sf::Clock shootClock;
     float shootCooldown = 0.3f;
 
