@@ -1,5 +1,5 @@
 # Danstroids (Asteroids Clone)
-This project is a 2d space shooter game that I build from scratch in C++ using the SFML library. I did my best to clone the original arcade game "Asteroids"
+This project is a 2d space shooter game that I built from scratch in C++ using the SFML library. I did my best to clone the original arcade game "Asteroids"
 
 ## Features
 - **Gameplay**: Fly your ship through an asteroid field, shoot/destroy asteroids, and avoid collisons
