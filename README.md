@@ -16,7 +16,7 @@ This project is a 2d space shooter game that I build from scratch in C++ using t
 - **Shooting**: Press `spacebar` to fire lasers at asteroids 
 - **Menu Nav**: Use `Up` and `Down` arrows to navigate the menu. Use `Enter` to select option
 
-## Reqauirements
+## Requirements 
 To build and run this project, you'll need:
 - A C++ compiler
 - **SFML**. You must have the dev libraries installed for graphics, audio, window, and system
