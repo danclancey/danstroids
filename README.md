@@ -25,24 +25,11 @@ To build and run this project, you'll need:
 1. Clone repository
 2. Open terminal in project directory
 3. Compile source code (Example using g++):
-    ```
     ```c++
     g++ src/*.cpp -o asteroids -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
-    ```
-    ``` 
-    ```
-    ``````
-    ```
 4. Run Game 
-    ```c++
     ```c++ 
     ./asteroids 
-    ```
-    ```
-    ```
-    ```
-    ``` 
-    ``````
     ```
 
 ## File Structure
